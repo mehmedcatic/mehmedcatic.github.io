@@ -285,6 +285,6 @@ main {
   .projects {
     grid-template-columns: 1fr; } 
   iframe {
-    width: 400px;
+    width: 370px;
   }
   }
